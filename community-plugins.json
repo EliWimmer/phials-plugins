@@ -5,7 +5,7 @@
       "name": "PDF Preview",
       "author": "Phials",
       "description": "Preview and thumbnail support for PDF files using pdf.js",
-      "repo": "phials-dev/phials-plugin-pdf"
+      "repo": "EliWimmer/phials-plugin-pdf"
     }
   ]
 }
